@@ -23,7 +23,7 @@ mnemo = Mnemonic("english")
 words = mnemo.wordlist
 
 # The incomplete mnemonic
-mnemonic = "couple champion train flush pattern shed sweet swim okay gospel"
+mnemonic = "intact pass airport pink embrace later caught ancient pave"
 
 # Split the mnemonic into a list of words
 mnemonic_words = mnemonic.split()
